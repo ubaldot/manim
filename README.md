@@ -15,6 +15,7 @@
     <img src="https://github.com/ManimCommunity/manim/workflows/CI/badge.svg" alt="CI">
     <br />
     <br />
+    <br />
     <i>An animation engine for explanatory math videos</i>
 </p>
 <hr />
